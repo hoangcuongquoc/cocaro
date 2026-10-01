@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+hinh_ket_qua/
+.DS_Store
